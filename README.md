@@ -92,17 +92,17 @@ The dashboard provides:
 
 * KPI Metrics (Total Patients, Readmission Rate)
 
-![powerbi dashboard](powerbi/Screenshot1.png)
-![powerbi dashboard](powerbi/Screenshot2.png)
+![01](powerbi/Screenshot1.png)
+![02](powerbi/Screenshot2.png)
 
 * Demographic Analysis (Age, Gender)
 
-![powerbi dashboard](powerbi/Screenshot3.png)
-![powerbi dashboard](powerbi/Screenshot4.png)
+![03](powerbi/Screenshot3.png)
+![04](powerbi/Screenshot4.png)
 
 * Readmission Trends
 
-![powerbi dashboard](powerbi/Screenshot5.png)
+![05](powerbi/Screenshot5.png)
 
 * Interactive Filters (Slicers)
 

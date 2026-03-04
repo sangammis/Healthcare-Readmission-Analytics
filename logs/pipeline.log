@@ -1,0 +1,55 @@
+2026-03-04 00:13:57,590 : INFO : Healthcare pipeline started
+2026-03-04 00:13:57,855 : INFO : Data loaded successfully
+2026-03-04 00:13:58,343 : INFO : Data Cleaned
+2026-03-04 00:13:58,873 : INFO : Processed data saved
+2026-03-04 00:13:58,873 : INFO : Healthcare pipeline completed
+2026-03-04 17:36:48,932 : INFO : Healthcare pipeline started
+2026-03-04 17:36:49,171 : INFO : Data loaded successfully
+2026-03-04 17:36:49,639 : INFO : Data Cleaned
+2026-03-04 17:36:50,181 : INFO : Processed data saved
+2026-03-04 17:36:50,182 : INFO : Healthcare pipeline completed
+2026-03-04 17:41:38,163 : INFO : Healthcare pipeline started
+2026-03-04 17:41:38,404 : INFO : Data loaded successfully
+2026-03-04 17:41:38,843 : INFO : Data Cleaned
+2026-03-04 17:41:39,364 : INFO : Processed data saved
+2026-03-04 17:43:14,581 : INFO : Healthcare pipeline started
+2026-03-04 17:43:14,836 : INFO : Data loaded successfully
+2026-03-04 17:43:15,325 : INFO : Data Cleaned
+2026-03-04 17:43:15,872 : INFO : Processed data saved
+2026-03-04 19:42:05,834 : INFO : Healthcare pipeline started
+2026-03-04 19:42:06,079 : INFO : Data loaded successfully
+2026-03-04 19:42:06,678 : INFO : Data Cleaned
+2026-03-04 19:42:07,223 : INFO : Processed data saved
+2026-03-04 19:43:25,781 : INFO : Healthcare pipeline started
+2026-03-04 19:43:26,010 : INFO : Data loaded successfully
+2026-03-04 19:43:26,601 : INFO : Data Cleaned
+2026-03-04 19:43:27,206 : INFO : Processed data saved
+2026-03-04 19:43:57,507 : INFO : Healthcare pipeline started
+2026-03-04 19:43:57,747 : INFO : Data loaded successfully
+2026-03-04 19:43:58,320 : INFO : Data Cleaned
+2026-03-04 19:43:58,860 : INFO : Processed data saved
+2026-03-04 19:45:22,362 : INFO : Healthcare pipeline started
+2026-03-04 19:45:22,847 : INFO : Data loaded successfully
+2026-03-04 19:45:23,659 : INFO : Data Cleaned
+2026-03-04 19:45:24,389 : INFO : Processed data saved
+2026-03-04 19:45:24,863 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 19:45:26,729 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 19:45:28,081 : INFO : LR Accuracy: 0.5365530116930333
+2026-03-04 20:01:44,583 : INFO : Healthcare pipeline started
+2026-03-04 20:01:44,840 : INFO : Data loaded successfully
+2026-03-04 20:01:45,482 : INFO : Data Cleaned
+2026-03-04 20:01:46,075 : INFO : Processed data saved
+2026-03-04 20:01:46,463 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 20:01:48,235 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 20:01:48,668 : INFO : LR Accuracy: 0.887737054141692
+2026-03-04 20:01:49,107 : INFO : XGB Accuracy : 0.888375749238479
+2026-03-04 20:01:49,107 : INFO : Healthcare pipeline completed
+2026-03-04 20:04:23,860 : INFO : Healthcare pipeline started
+2026-03-04 20:04:24,142 : INFO : Data loaded successfully
+2026-03-04 20:04:24,790 : INFO : Data Cleaned
+2026-03-04 20:04:25,364 : INFO : Processed data saved
+2026-03-04 20:04:25,729 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 20:04:27,393 : INFO : Feature Engineering: Encoded 36 categorical columns.
+2026-03-04 20:04:27,669 : INFO : LR Accuracy: 0.887737054141692
+2026-03-04 20:04:28,010 : INFO : XGB Accuracy : 0.888375749238479
+2026-03-04 20:04:28,010 : INFO : Healthcare pipeline completed
